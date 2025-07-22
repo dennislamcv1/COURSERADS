@@ -1,0 +1,104 @@
+product_id,city,product_url,tags,product_picture
+1,New York,https://data_shop_inc.com/product/1,electronics,https://picsum.photos/300?random=1
+2,Miami,https://data_shop_inc.com/product/2,electronics,https://picsum.photos/300?random=2
+3,New York,https://data_shop_inc.com/product/3,summer,https://picsum.photos/300?random=3
+4,Houston,https://data_shop_inc.com/product/4,beauty,https://picsum.photos/300?random=4
+5,Miami,https://data_shop_inc.com/product/5,beauty,https://picsum.photos/300?random=5
+6,Miami,https://data_shop_inc.com/product/6,beauty,
+7,New York,https://data_shop_inc.com/product/7,sale,https://picsum.photos/300?random=7
+8,New York,https://product/8,summer,https://picsum.photos/300?random=8
+9,Houston,https://data_shop_inc.com/product/9,beauty,https://picsum.photos/300?random=9
+10,Chicago,https://data_shop_inc.com/product/10,beauty,
+10,Chicago,https://data_shop_inc.com/product/10,beauty,https://picsum.photos/300?random=10
+10,Chicago,https://data_shop_inc.com/product/10,beauty,https://picsum.photos/300?random=10
+11,New York,https://data_shop_inc.com/product/11,sale,https://picsum.photos/300?random=11
+12,Chicago,https://data_shop_inc.com/product/12,summer,https://picsum.photos/300?random=12
+13,Miami,https://product/13,home,https://picsum.photos/300?random=13
+14,Miami,https://data_shop_inc.com/product/14,home,
+15,Los Angeles,https://data_shop_inc.com/product/15,electronics,https://picsum.photos/300?random=15
+16,Houston,https://data_shop_inc.com/product/16,home,https://picsum.photos/300?random=16
+17,Chicago,https://data_shop_inc.com/product/17,electronics,https://picsum.photos/300?random=17
+18,New York,https://data_shop_inc.com/product/18,home,https://picsum.photos/300?random=18
+19,Miami,https://data_shop_inc.com/product/19,electronics,https://picsum.photos/300?random=19
+20,Chicago,https://data_shop_inc.com/product/20,summer,https://picsum.photos/300?random=20
+21,Miami,https://data_shop_inc.com/product/21,beauty,https://picsum.photos/300?random=21
+22,Los Angeles,https://data_shop_inc.com/product/22,sale,https://picsum.photos/300?random=22
+23,Chicago,https://data_shop_inc.com/product/23,fashion,
+24,New York,https://data_shop_inc.com/product/24,sale,https://picsum.photos/300?random=24
+25,Los Angeles,https://data_shop_inc.com/product/25,home,https://picsum.photos/300?random=25
+26,Miami,https://data_shop_inc.com/product/26,beauty,https://picsum.photos/300?random=26
+27,Chicago,https://data_shop_inc.com/product/27,summer,https://picsum.photos/300?random=27
+28,Los Angeles,https://data_shop_inc.com/product/28,home,https://picsum.photos/300?random=28
+29,Houston,https://data_shop_inc.com/product/29,sports,https://picsum.photos/300?random=29
+30,Los Angeles,https://data_shop_inc.com/product/30,home,https://picsum.photos/300?random=30
+31,Chicago,https://data_shop_inc.com/product/31,summer,https://picsum.photos/300?random=31
+32,Houston,https://data_shop_inc.com/product/32,sale,https://picsum.photos/300?random=32
+33,Miami,https://data_shop_inc.com/product/33,
+34,Miami,https://data_shop_inc.com/product/34,beauty,https://picsum.photos/300?random=34
+35,Chicago,https://data_shop_inc.com/product/35,summer,https://picsum.photos/300?random=35
+36,Los Angeles,https://data_shop_inc.com/product/36,sale,https://picsum.photos/300?random=36
+37,Los Angeles,https://data_shop_inc.com/product/37,sale,https://picsum.photos/300?random=37
+38,Miami,https://data_shop_inc.com/product/38,home,https://picsum.photos/300?random=38
+39,Houston,https://data_shop_inc.com/product/39,sports,https://picsum.photos/300?random=39
+40,New York,https://data_shop_inc.com/product/40,sale,https://picsum.photos/300?random=40
+41,New York,https://data_shop_inc.com/product/41,sale,https://picsum.photos/300?random=41
+42,New York,https://data_shop_inc.com/product/42,summer,
+43,Miami,https://data_shop_inc.com/product/43,beauty,https://picsum.photos/300?random=43
+44,Chicago,https://data_shop_inc.com/product/44,sale,https://picsum.photos/300?random=44
+45,Los Angeles,https://data_shop_inc.com/product/45,summer,https://picsum.photos/300?random=45
+46,Houston,https://data_shop_inc.com/product/46,summer,https://picsum.photos/300?random=46
+47,Los Angeles,https://data_shop_inc.com/product/47,beauty,https://picsum.photos/300?random=47
+48,New York,https://data_shop_inc.com/product/48,beauty,https://picsum.photos/300?random=48
+49,Miami,https://data_shop_inc.com/product/49,home,https://picsum.photos/300?random=49
+50,Chicago,https://data_shop_inc.com/product/50,summer,https://picsum.photos/300?random=50
+51,Miami,https://data_shop_inc.com/product/51,summer,https://picsum.photos/300?random=51
+52,Miami,https://product/52,fashion,https://picsum.photos/300?random=52
+53,Chicago,https://data_shop_inc.com/product/53,summer,https://picsum.photos/300?random=53
+54,New York,https://data_shop_inc.com/product/54,beauty,https://picsum.photos/300?random=54
+55,Los Angeles,https://data_shop_inc.com/product/55,sports,https://picsum.photos/300?random=55
+56,Miami,https://data_shop_inc.com/product/56,sale,https://picsum.photos/300?random=56
+57,Chicago,https://data_shop_inc.com/product/57,beauty,https://picsum.photos/300?random=57
+58,Chicago,https://data_shop_inc.com/product/58,electronics,https://picsum.photos/300?random=58
+59,Houston,https://data_shop_inc.com/product/59,sale,https://picsum.photos/300?random=59
+60,Houston,https://data_shop_inc.com/product/60,summer,https://picsum.photos/300?random=60
+61,Los Angeles,https://data_shop_inc.com/product/61,beauty,https://picsum.photos/300?random=61
+62,Miami,https://data_shop_inc.com/product/62,sports,https://picsum.photos/300?random=62
+63,Miami,https://data_shop_inc.com/product/63,fashion,https://picsum.photos/300?random=63
+64,Houston,https://data_shop_inc.com/product/64,home,https://picsum.photos/300?random=64
+65,Miami,https://data_shop_inc.com/product/65,sale,https://picsum.photos/300?random=65
+66,Houston,https://data_shop_inc.com/product/66,summer,https://picsum.photos/300?random=66
+67,Los Angeles,https://data_shop_inc.com/product/67,electronics,https://picsum.photos/300?random=67
+68,Chicago,https://data_shop_inc.com/product/68,sale,https://picsum.photos/300?random=68
+69,Houston,https://data_shop_inc.com/product/69,electronics,https://picsum.photos/300?random=69
+70,Miami,https://data_shop_inc.com/product/70,electronics,https://picsum.photos/300?random=70
+71,Houston,https://data_shop_inc.com/product/71,fashion,https://picsum.photos/300?random=71
+72,Chicago,https://data_shop_inc.com/product/72,fashion,
+73,Houston,https://data_shop_inc.com/product/73,fashion,https://picsum.photos/300?random=73
+74,New York,https://data_shop_inc.com/product/74,home,https://picsum.photos/300?random=74
+75,Los Angeles,https://data_shop_inc.com/product/75,electronics,https://picsum.photos/300?random=75
+76,Los Angeles,https://data_shop_inc.com/product/76,summer,https://picsum.photos/300?random=76
+77,Chicago,https://data_shop_inc.com/product/77,beauty,https://picsum.photos/300?random=77
+78,New York,https://data_shop_inc.com/product/78,home,https://picsum.photos/300?random=78
+79,New York,https://data_shop_inc.com/product/79,fashion,https://picsum.photos/300?random=79
+80,Chicago,https://data_shop_inc.com/product/80,sports,https://picsum.photos/300?random=80
+81,Houston,https://data_shop_inc.com/product/81,fashion,https://picsum.photos/300?random=81
+82,Houston,https://data_shop_inc.com/product/82,sale,
+83,Houston,https://data_shop_inc.com/product/83,fashion,https://picsum.photos/300?random=83
+84,Houston,https://data_shop_inc.com/product/84,electronics,https://picsum.photos/300?random=84
+85,Houston,https://data_shop_inc.com/product/85,electronics,https://picsum.photos/300?random=85
+86,New York,https://data_shop_inc.com/product/86,home,https://picsum.photos/300?random=86
+87,Chicago,https://product/87,sale,https://picsum.photos/300?random=87
+88,Los Angeles,https://data_shop_inc.com/product/88,electronics,https://picsum.photos/300?random=88
+89,Miami,https://data_shop_inc.com/product/89,sale,https://picsum.photos/300?random=89
+90,Los Angeles,https://data_shop_inc.com/product/90,beauty,https://picsum.photos/300?random=90
+91,New York,https://data_shop_inc.com/product/91,home,https://picsum.photos/300?random=91
+92,New York,https://data_shop_inc.com/product/92,sale,
+93,Los Angeles,https://data_shop_inc.com/product/93,electronics,https://picsum.photos/300?random=93
+94,Chicago,https://data_shop_inc.com/product/94,home,https://picsum.photos/300?random=94
+94,Chicago,https://data_shop_inc.com/product/94,home,https://picsum.photos/300?random=94
+95,Chicago,https://data_shop_inc.com/product/95,sale,https://picsum.photos/300?random=95
+96,Miami,https://data_shop_inc.com/product/96,sports,https://picsum.photos/300?random=96
+97,Miami,https://product/97,electronics,https://picsum.photos/300?random=97
+98,Houston,https://data_shop_inc.com/product/98,beauty,https://picsum.photos/300?random=98
+99,Miami,https://data_shop_inc.com/product/99,electronics,https://picsum.photos/300?random=99
+100,Houston,https://data_shop_inc.com/product/100,home,https://picsum.photos/300?random=100

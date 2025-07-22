@@ -1,0 +1,101 @@
+book_id,title,author,isbn,genre,condition,purchase_price,list_price,date_acquired,current_location,quantity
+B1001,"A Christmas Carol","Charles Dickens","9780141324524","Classic Fiction","Good",5.50,8.99,2023-01-15,"Suburban",2
+B1002,"A Farewell to Arms","Ernest Hemingway","9780684801469","Classic Fiction","Very Good",7.00,11.99,2023-01-15,"University",3
+B1003,"A Tale of Two Cities","Charles Dickens","9780141439600","Classic Fiction","Fair",4.50,7.99,2023-01-16,"Downtown",2
+B1004,"Adventures of Huckleberry Finn","Mark Twain","9780142437179","Classic Fiction","Good",6.00,9.99,2023-01-16,"University",4
+B1005,"Agnes Grey","Anne Bronte","9780140432107","Classic Fiction","Fair",4.00,7.99,2023-01-17,"Suburban",1
+B1006,"Alice's Adventures in Wonderland","Lewis Carroll","9780141439761","Classic Fiction","Very Good",6.50,10.99,2023-01-17,"Downtown",3
+B1007,"Anna Karenina","Leo Tolstoy","9780143035008","Classic Fiction","Good",7.00,11.99,2023-01-18,"University",3
+B1008,"Anne of Green Gables","L.M. Montgomery","9780141321598","Classic Fiction","Like New",8.00,12.99,2023-01-18,"Suburban",2
+B1009,"Anthem","Ayn Rand","9780451191137","Classic Fiction","Good",5.00,8.99,2023-01-19,"Downtown",1
+B1010,"As I Lay Dying","William Faulkner","9780075536559","Classic Fiction","Very Good",6.50,10.99,2023-01-19,"University",3
+B1011,"Beowulf","Unknown","9780140449310","Classic Poetry","Good",5.50,9.99,2023-01-20,"University",4
+B1012,"Bleak House","Charles Dickens","9780141439723","Classic Fiction","Fair",5.00,8.99,2023-01-20,"Downtown",1
+B1013,"Brave New World","Aldous Huxley","9780060850524","Classic Fiction","Very Good",7.50,12.99,2023-01-21,"University",4
+B1014,"Candide","Voltaire","9780140455106","Classic Fiction","Good",5.00,8.99,2023-01-21,"Suburban",2
+B1015,"Canterbury Tales","Geoffrey Chaucer","9780140424386","Classic Poetry","Fair",4.50,7.99,2023-01-22,"University",3
+B1016,"Crime and Punishment","Fyodor Dostoevsky","9780140449136","Classic Fiction","Like New",8.50,13.99,2023-01-22,"University",4
+B1017,"David Copperfield","Charles Dickens","9780140439441","Classic Fiction","Good",6.00,9.99,2023-01-23,"Downtown",2
+B1018,"Death of a Salesman","Arthur Miller","9780141180977","Classic Drama","Very Good",6.50,10.99,2023-01-23,"University",4
+B1019,"Don Quixote","Miguel de Cervantes","9780142437230","Classic Fiction","Good",7.00,11.99,2023-01-24,"Downtown",2
+B1020,"Dracula","Bram Stoker","9780141439846","Classic Fiction","Fair",4.50,7.99,2023-01-24,"Suburban",2
+B1021,"Emma","Jane Austen","9780141439587","Classic Fiction","Very Good",6.50,10.99,2023-01-25,"Downtown",3
+B1022,"Fahrenheit 451","Ray Bradbury","9780143036142","Classic Fiction","Like New",8.00,12.99,2023-01-25,"University",4
+B1023,"For Whom the Bell Tolls","Ernest Hemingway","9780684830483","Classic Fiction","Good",6.50,10.99,2023-01-26,"Downtown",2
+B1024,"Frankenstein","Mary Shelley","9780141439471","Classic Fiction","Very Good",7.00,11.99,2023-01-26,"University",3
+B1025,"Great Expectations","Charles Dickens","9780141439563","Classic Fiction","Good",6.00,9.99,2023-01-27,"University",4
+B1026,"Gulliver's Travels","Jonathan Swift","9780141439495","Classic Fiction","Fair",5.00,8.99,2023-01-27,"Suburban",2
+B1027,"Hamlet","William Shakespeare","9780141396507","Classic Drama","Very Good",6.50,10.99,2023-01-28,"University",5
+B1028,"Heart of Darkness","Joseph Conrad","9780141441672","Classic Fiction","Good",5.50,9.99,2023-01-28,"Downtown",2
+B1029,"Iliad","Homer","9780140275360","Classic Poetry","Like New",8.00,13.99,2023-01-29,"University",4
+B1030,"In Cold Blood","Truman Capote","9780679745587","Classic Non-Fiction","Good",6.00,9.99,2023-01-29,"Downtown",2
+B1031,"Invisible Man","Ralph Ellison","9780679732761","Classic Fiction","Very Good",7.00,11.99,2023-01-30,"University",4
+B1032,"Jane Eyre","Charlotte Bronte","9780141441146","Classic Fiction","Good",6.50,10.99,2023-01-30,"Downtown",3
+B1033,"Julius Caesar","William Shakespeare","9780140714685","Classic Drama","Fair",4.50,7.99,2023-01-31,"University",3
+B1034,"King Lear","William Shakespeare","9780140714760","Classic Drama","Very Good",6.50,10.99,2023-01-31,"University",4
+B1035,"Les Misérables","Victor Hugo","9780140444308","Classic Fiction","Good",7.00,11.99,2023-02-01,"Downtown",2
+B1036,"Little Women","Louisa May Alcott","9780141439563","Classic Fiction","Like New",8.00,12.99,2023-02-01,"Suburban",3
+B1037,"Lord of the Flies","William Golding","9780399501487","Classic Fiction","Very Good",7.00,11.99,2023-02-02,"University",5
+B1038,"Macbeth","William Shakespeare","9780141396316","Classic Drama","Good",6.00,9.99,2023-02-02,"University",4
+B1039,"Madame Bovary","Gustave Flaubert","9780140449129","Classic Fiction","Fair",5.00,8.99,2023-02-03,"Downtown",2
+B1040,"Medea","Euripides","9780140449297","Classic Drama","Good",5.50,9.99,2023-02-03,"University",3
+B1041,"Metamorphosis","Franz Kafka","9780141023459","Classic Fiction","Very Good",6.50,10.99,2023-02-04,"University",4
+B1042,"Middlemarch","George Eliot","9780141439549","Classic Fiction","Good",6.00,9.99,2023-02-04,"Downtown",2
+B1043,"Moby Dick","Herman Melville","9780142437247","Classic Fiction","Like New",8.50,13.99,2023-02-05,"University",3
+B1044,"Mrs. Dalloway","Virginia Woolf","9780156628709","Classic Fiction","Good",6.50,10.99,2023-02-05,"Downtown",2
+B1045,"Native Son","Richard Wright","9780060929800","Classic Fiction","Very Good",7.00,11.99,2023-02-06,"University",3
+B1046,"Night","Elie Wiesel","9780374500016","Classic Non-Fiction","Good",6.00,9.99,2023-02-06,"University",4
+B1047,"Nineteen Eighty-Four","George Orwell","9780141036144","Classic Fiction","Like New",8.00,12.99,2023-02-07,"University",5
+B1048,"Notes from Underground","Fyodor Dostoevsky","9780140445770","Classic Fiction","Fair",4.50,7.99,2023-02-07,"Downtown",2
+B1049,"Of Mice and Men","John Steinbeck","9780140177398","Classic Fiction","Very Good",7.00,11.99,2023-02-08,"University",4
+B1050,"Oliver Twist","Charles Dickens","9780141439747","Classic Fiction","Good",6.00,9.99,2023-02-08,"Suburban",2
+B1051,"One Hundred Years of Solitude","Gabriel García Márquez","9780060883287","Classic Fiction","Very Good",7.50,12.99,2023-02-09,"Downtown",2
+B1052,"Othello","William Shakespeare","9780141396514","Classic Drama","Good",6.00,9.99,2023-02-09,"University",4
+B1053,"Paradise Lost","John Milton","9780140424393","Classic Poetry","Fair",5.00,8.99,2023-02-10,"University",3
+B1054,"Persuasion","Jane Austen","9780141439686","Classic Fiction","Like New",7.50,12.99,2023-02-10,"Downtown",2
+B1055,"Pride and Prejudice","Jane Austen","9780141439518","Classic Fiction","Very Good",7.00,11.99,2023-02-11,"University",5
+B1056,"Republic","Plato","9780140455113","Classic Philosophy","Good",6.50,10.99,2023-02-11,"University",4
+B1057,"Robinson Crusoe","Daniel Defoe","9780141439822","Classic Fiction","Fair",4.50,7.99,2023-02-12,"Suburban",2
+B1058,"Romeo and Juliet","William Shakespeare","9780141396476","Classic Drama","Very Good",6.50,10.99,2023-02-12,"University",5
+B1059,"Sense and Sensibility","Jane Austen","9780141439662","Classic Fiction","Good",6.00,9.99,2023-02-13,"Downtown",3
+B1060,"Silas Marner","George Eliot","9780141439754","Classic Fiction","Like New",7.00,11.99,2023-02-13,"Suburban",2
+B1061,"Sons and Lovers","D.H. Lawrence","9780141441443","Classic Fiction","Good",6.00,9.99,2023-02-14,"Downtown",2
+B1062,"Tale of Two Cities","Charles Dickens","9780141439600","Classic Fiction","Very Good",7.00,11.99,2023-02-14,"University",4
+B1063,"Tess of the d'Urbervilles","Thomas Hardy","9780141439594","Classic Fiction","Fair",5.00,8.99,2023-02-15,"Downtown",2
+B1064,"The Adventures of Sherlock Holmes","Arthur Conan Doyle","9780142437674","Classic Mystery","Good",6.50,10.99,2023-02-15,"Suburban",3
+B1065,"The Aeneid","Virgil","9780140446272","Classic Poetry","Very Good",7.00,11.99,2023-02-16,"University",3
+B1066,"The Age of Innocence","Edith Wharton","9780140189704","Classic Fiction","Good",6.00,9.99,2023-02-16,"Downtown",2
+B1067,"The Bell Jar","Sylvia Plath","9780060837020","Classic Fiction","Like New",8.00,12.99,2023-02-17,"University",4
+B1068,"The Brothers Karamazov","Fyodor Dostoevsky","9780140449242","Classic Fiction","Very Good",7.50,12.99,2023-02-17,"University",3
+B1069,"The Call of the Wild","Jack London","9780140186512","Classic Fiction","Good",6.00,9.99,2023-02-18,"Suburban",2
+B1070,"The Canterbury Tales","Geoffrey Chaucer","9780140424386","Classic Poetry","Fair",5.00,8.99,2023-02-18,"University",4
+B1071,"The Catcher in the Rye","J.D. Salinger","9780316769488","Classic Fiction","Like New",8.50,13.99,2023-02-19,"University",5
+B1072,"The Count of Monte Cristo","Alexandre Dumas","9780140449266","Classic Fiction","Good",7.00,11.99,2023-02-19,"Downtown",2
+B1073,"The Divine Comedy","Dante Alighieri","9780142437223","Classic Poetry","Very Good",7.50,12.99,2023-02-20,"University",3
+B1074,"The Grapes of Wrath","John Steinbeck","9780143039433","Classic Fiction","Good",7.00,11.99,2023-02-20,"University",4
+B1075,"The Great Gatsby","F. Scott Fitzgerald","9780743273565","Classic Fiction","Like New",8.00,12.99,2023-02-21,"University",5
+B1076,"The Heart is a Lonely Hunter","Carson McCullers","9780141185224","Classic Fiction","Good",6.50,10.99,2023-02-21,"Downtown",2
+B1077,"The Hound of the Baskervilles","Arthur Conan Doyle","9780140437867","Classic Mystery","Very Good",7.00,11.99,2023-02-22,"Suburban",3
+B1078,"The Importance of Being Earnest","Oscar Wilde","9780140436068","Classic Drama","Good",6.00,9.99,2023-02-22,"University",4
+B1079,"The Jungle","Upton Sinclair","9780140390315","Classic Fiction","Fair",5.00,8.99,2023-02-23,"University",3
+B1080,"The Little Prince","Antoine de Saint-Exupéry","9780156012195","Classic Fiction","Like New",7.50,12.99,2023-02-23,"Downtown",3
+B1081,"The Metamorphosis","Franz Kafka","9780141023459","Classic Fiction","Good",6.50,10.99,2023-02-24,"University",4
+B1082,"The Odyssey","Homer","9780140449112","Classic Poetry","Very Good",7.50,12.99,2023-02-24,"University",5
+B1083,"The Picture of Dorian Gray","Oscar Wilde","9780141439570","Classic Fiction","Good",6.50,10.99,2023-02-25,"Downtown",3
+B1084,"The Prince","Niccolo Machiavelli","9780140449150","Classic Philosophy","Fair",5.00,8.99,2023-02-25,"University",4
+B1085,"The Red Badge of Courage","Stephen Crane","9780140437980","Classic Fiction","Very Good",6.50,10.99,2023-02-26,"Suburban",2
+B1086,"The Republic","Plato","9780140455113","Classic Philosophy","Like New",8.00,13.99,2023-02-26,"University",4
+B1087,"The Scarlet Letter","Nathaniel Hawthorne","9780142437261","Classic Fiction","Good",6.50,10.99,2023-02-27,"University",5
+B1088,"The Sound and the Fury","William Faulkner","9780679732242","Classic Fiction","Very Good",7.00,11.99,2023-02-27,"University",3
+B1089,"The Strange Case of Dr. Jekyll and Mr. Hyde","Robert Louis Stevenson","9780141439730","Classic Fiction","Good",6.00,9.99,2023-02-28,"Downtown",2
+B1090,"The Sun Also Rises","Ernest Hemingway","9780743297332","Classic Fiction","Like New",8.00,12.99,2023-02-28,"University",4
+B1091,"The Tale of Genji","Murasaki Shikibu","9780142437148","Classic Fiction","Fair",5.50,9.99,2023-03-01,"Downtown",1
+B1092,"The Three Musketeers","Alexandre Dumas","9780140449266","Classic Fiction","Very Good",7.00,11.99,2023-03-01,"Suburban",2
+B1093,"The Trial","Franz Kafka","9780141182902","Classic Fiction","Good",6.50,10.99,2023-03-02,"University",3
+B1094,"The Waste Land","T.S. Eliot","9780571097128","Classic Poetry","Very Good",6.00,9.99,2023-03-02,"University",4
+B1095,"The Wind in the Willows","Kenneth Grahame","9780143039099","Classic Fiction","Good",5.50,9.99,2023-03-03,"Suburban",2
+B1096,"Thus Spoke Zarathustra","Friedrich Nietzsche","9780140441185","Classic Philosophy","Like New",8.00,13.99,2023-03-03,"University",3
+B1097,"Treasure Island","Robert Louis Stevenson","9780141321011","Classic Fiction","Fair",4.50,7.99,2023-03-04,"Suburban",2
+B1098,"Ulysses","James Joyce","9780141182803","Classic Fiction","Very Good",8.00,13.99,2023-03-04,"University",3
+B1099,"Walden","Henry David Thoreau","9780140390445","Classic Non-Fiction","Good",6.50,10.99,2023-03-05,"University",4
+B1100,"Wuthering Heights","Emily Bronte","9780141439556","Classic Fiction","Like New",7.50,12.99,2023-03-05,"University",4
