@@ -1,0 +1,29 @@
+import pandas as pd
+
+def analyze_engagement_trends(df):
+    """
+    Processes social media engagement data and returns daily engagement metrics grouped by topic and date.
+    
+    Parameters:
+    df (pd.DataFrame): DataFrame with columns - post_date (str), likes (int), shares (int), 
+                       comments (int), topic (str), followers (int)
+    
+    Returns:
+    pd.DataFrame: Grouped daily engagement metrics with calculated engagement rates.
+    """
+    # Convert post_date strings to datetime objects
+    df['post_date'] = pd.to_datetime(df['post_date'])
+
+    # Calculate engagement rate
+    df['engagement_rate'] = (df['likes'] + df['shares'] + df['comments']) / df['followers']
+
+    # Group by topic and post_date, and calculate average metrics per day per topic
+    grouped = df.groupby(['topic', 'post_date']).agg({
+        'likes': 'sum',
+        'shares': 'sum',
+        'comments': 'sum',
+        'followers': 'mean',  # followers might vary slightly per post
+        'engagement_rate': 'mean'
+    }).reset_index()
+
+    return grouped
