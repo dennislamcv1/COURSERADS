@@ -1,5 +1,6 @@
 # COURSERADS
-## Python, SQL, Tableau for Data Science Professional Certificate
+
+## Python, SQL, Tableau for Data Science Professional Certificate (5 course series)
 
 Move beyond spreadsheets and build a strong foundation in modern data science. The Python, SQL, Tableau for Data Science Professional Certificate is a hands-on, beginner-friendly program that helps you develop practical skills using essential tools: SQL, Python, Microsoft Excel, Tableau, and AWS Machine Learning. Designed as an accessible, industry-agnostic starting point, the program supports learners who want to explore data science or build skills from the ground up.
 
